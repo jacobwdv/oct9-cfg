@@ -5,7 +5,7 @@ app:
     artifactId: ferret
     version: "1.2"
     type: "war"
-  #java: 17
+  java: 17
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
