@@ -1,5 +1,10 @@
-version: 1.0
-app: 
+#version: 1.0
+app:
+  maven:
+    groupId: net.wasdev.wlp.sample
+    artifactId: ferret
+    version: "1.2"
+    type: "war"
   java: 17
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
