@@ -5,6 +5,7 @@ app:
     artifactId: ferret
     version: "1.2"
     type: "war"
+  endpoints: public
   java: 17
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
